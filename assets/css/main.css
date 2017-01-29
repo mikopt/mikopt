@@ -3862,6 +3862,11 @@
 	@media screen and (max-width: 480px) {
 
 		/* Basic */
+        
+            .logo {
+                display: block;
+                width: 300px;
+            }
 
 			html, body {
 				min-width: 320px;
