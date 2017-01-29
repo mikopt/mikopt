@@ -3270,10 +3270,6 @@
 
 /* Header */
 
-	#page-wrapper {
-		padding-top: 3.5em;
-	}
-
 	#header {
 		background: rgba(39, 40, 51, 0.965);
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
