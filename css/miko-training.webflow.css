@@ -663,7 +663,7 @@
 .qualifications-text {
   display: inline-block;
   margin-top: 0px;
-  margin-left: 6px;
+  margin-left: 12px;
   padding-top: 0px;
   padding-left: 0px;
   font-family: Raleway, sans-serif;
@@ -679,10 +679,16 @@
 
 .qualifications-div {
   padding-right: 0px;
+  border-left: 3px solid #ee5d45;
 }
 
 .qualification-row-top {
   margin: 60px 60px 18px;
+}
+
+.qualification-col {
+  padding-left: 10px;
+  border-left: 0px none #ee5d45;
 }
 
 .qualification-row {
@@ -1299,6 +1305,18 @@
   padding-top: 0px;
 }
 
+.column-3 {
+  border-left: 3px solid #ee5d45;
+}
+
+.column-4 {
+  border-left: 3px solid #ee5d45;
+}
+
+.column-6 {
+  border-left: 3px solid #ee5d45;
+}
+
 .div-block-11 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1663,14 +1681,15 @@ html.w-mod-js *[data-ix="fixed-navbar"] {
     display: none;
   }
   .qualifications-text {
-    margin-left: 0px;
-    padding-bottom: 12px;
+    margin-left: 9px;
+    padding-bottom: 0px;
     font-size: 12px;
     line-height: 18px;
   }
   .qualifications-div {
     margin-top: 9px;
-    border-bottom: 1px solid #b9a8a0;
+    margin-left: 1px;
+    border-bottom: 0px none #b9a8a0;
   }
   .testimonal-container {
     display: none;
