@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout-1" transform="translate(-1084.000000, -5984.000000)" fill="#35568C">
+            <g id="Footer" transform="translate(0.000000, 5921.000000)">
+                <g id="Content" transform="translate(270.000000, 60.000000)">
+                    <path d="M833.428,19.006 L831.186,19.006 L831.186,27 L827.864,27 L827.864,19.006 L826.284,19.006 L826.284,16.182 L827.864,16.182 L827.864,14.354 C827.864,13.045 828.485,11 831.216,11 L833.677,11.01 L833.677,13.752 L831.891,13.752 C831.6,13.752 831.186,13.897 831.186,14.522 L831.186,16.182 L833.719,16.182 L833.428,19.006 Z M830,3 C821.164,3 814,10.164 814,19 C814,27.838 821.164,35 830,35 C838.837,35 846,27.838 846,19 C846,10.164 838.837,3 830,3 L830,3 Z" id="Facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

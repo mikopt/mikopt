@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout-1" transform="translate(-921.000000, -2218.000000)">
+            <g id="Services" transform="translate(0.000000, 1663.000000)">
+                <rect id="Background" fill="#F0F8FA" x="-2.84217094e-14" y="0" width="1440" height="1242"></rect>
+                <rect id="Bounding-Box" x="240" y="0" width="960" height="1242"></rect>
+                <g id="Content" transform="translate(240.000000, 90.000000)">
+                    <g id="Services" transform="translate(0.000000, 117.000000)">
+                        <g id="Cardio" transform="translate(660.000000, 318.000000)">
+                            <rect id="Bounding-Box" x="0" y="0" width="300" height="309"></rect>
+                            <g transform="translate(21.000000, 30.000000)">
+                                <path d="M5.24426994,21 L13.5092246,21 L16.6984881,16.6147626 L21.3739349,29.6021148 L26.1038512,19.6167359 L26.9338096,21 L36.7560568,21 C34.3643155,25.2390957 29.6568436,29.5091208 23.5375,35.07 L21,37.3625 L18.4625,35.0525 C12.3434351,29.5037557 7.63611323,25.2376808 5.24426994,21 Z M4.29193135,19 C3.77346059,17.6549769 3.5,16.2931388 3.5,14.875 C3.5,9.485 7.735,5.25 13.125,5.25 C16.17,5.25 19.0925,6.6675 21,8.9075 C22.9075,6.6675 25.83,5.25 28.875,5.25 C34.265,5.25 38.5,9.485 38.5,14.875 C38.5,16.2930782 38.2265628,17.6548605 37.7081351,19 L28.0661904,19 L25.8961488,15.3832641 L21.6260651,24.3978852 L17.3015119,12.3852374 L12.4907754,19 L4.29193135,19 Z" id="Combined-Shape" fill="#EE5D45" fill-rule="nonzero"></path>
+                                <polygon id="Shape" points="0 0 42 0 42 42 0 42"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
