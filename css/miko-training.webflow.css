@@ -1437,6 +1437,9 @@ html.w-mod-js *[data-ix="fixed-navbar"] {
     margin-left: 0px;
     padding-top: 15px;
   }
+  .qualifications-text {
+    font-size: 14px;
+  }
   .qualifications-div {
     margin-top: 3px;
   }
