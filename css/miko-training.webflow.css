@@ -500,8 +500,8 @@
 }
 
 ._3-column-left {
-  padding-right: 15px;
-  padding-left: 10px;
+  padding-right: 9px;
+  padding-left: 9px;
 }
 
 ._3-column-div-card {
@@ -542,8 +542,8 @@
 }
 
 ._3-column-centre {
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 9px;
+  padding-left: 9px;
 }
 
 .section-container {
@@ -739,12 +739,16 @@
 ._4-column-div-card-small {
   margin-top: 0px;
   margin-bottom: 0px;
-  padding: 42px 12px 54px;
+  padding: 42px 6px 54px;
   border: 1px solid #dcdcdc;
   border-radius: 3px;
   background-image: -webkit-linear-gradient(270deg, #fff, #fff);
   background-image: linear-gradient(180deg, #fff, #fff);
   box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, .25);
+}
+
+._4-column-div-card-small.size-adjustment {
+  padding-bottom: 57px;
 }
 
 .package-price-price {
@@ -785,7 +789,13 @@
   text-align: center;
 }
 
+.price-per-session.doubleline {
+  margin-bottom: 16px;
+}
+
 .validity {
+  padding-right: 3px;
+  padding-left: 3px;
   font-family: Raleway, sans-serif;
   color: #1e1616;
   line-height: 16px;
