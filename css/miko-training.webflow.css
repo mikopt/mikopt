@@ -22,7 +22,7 @@
 
 .brand {
   width: 200px;
-  background-image: url('../images/Logo-FINAL.svg'), url('../images/Logo-FINAL_1.svg');
+  background-image: url('../images/Logo-FINAL_1.svg'), url('../images/Logo-FINAL.svg');
   background-position: 50% 50%, 50% 50%;
   background-size: cover, 100px;
   background-repeat: no-repeat, no-repeat;
@@ -713,7 +713,7 @@
   background-image: linear-gradient(180deg, #f0f8fa, #f0f8fa);
 }
 
-.pricing-row {
+.pricing-row-1 {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -736,18 +736,18 @@
   text-align: center;
 }
 
-._4-column-div-card-small {
+.pricing-card {
   margin-top: 0px;
   margin-bottom: 0px;
-  padding: 42px 6px 54px;
-  border: 1px solid #dcdcdc;
+  padding: 42px 24px 54px;
+  border: 1px none #dcdcdc;
   border-radius: 3px;
   background-image: -webkit-linear-gradient(270deg, #fff, #fff);
   background-image: linear-gradient(180deg, #fff, #fff);
-  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, .25);
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, .12);
 }
 
-._4-column-div-card-small.size-adjustment {
+.pricing-card.size-adjustment {
   padding-bottom: 57px;
 }
 
@@ -1386,6 +1386,15 @@
   background-repeat: no-repeat;
 }
 
+.pricing-row-2 {
+  padding-top: 18px;
+}
+
+.price-card {
+  padding-right: 9px;
+  padding-left: 9px;
+}
+
 html.w-mod-js *[data-ix="fixed-navbar"] {
   -webkit-transform: translate(0px, -100%);
   -ms-transform: translate(0px, -100%);
@@ -1591,7 +1600,7 @@ html.w-mod-js *[data-ix="fixed-navbar"] {
     padding-right: 0px;
     padding-left: 0px;
   }
-  .pricing-row {
+  .pricing-row-1 {
     display: block;
   }
   .testimonal-container {
@@ -1683,6 +1692,12 @@ html.w-mod-js *[data-ix="fixed-navbar"] {
     height: 420px;
     background-position: 50% 25%;
     background-size: cover;
+  }
+  .pricing-row-2 {
+    padding-top: 0px;
+  }
+  .price-card {
+    padding-bottom: 18px;
   }
 }
 
